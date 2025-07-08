@@ -1,0 +1,49 @@
+# Build and release folders
+build/
+debug/
+release/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.so
+*.dll
+*.a
+*.lib
+
+# Qt-specific
+Makefile
+Makefile.Debug
+Makefile.Release
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+
+# UI auto-gen
+ui_*.h
+moc_*.cpp
+moc_*.h
+*.autosave
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.env
+.env
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache
+*.cache
+appdata
+
+# VSCode/IDE
+.vscode/
+.idea/

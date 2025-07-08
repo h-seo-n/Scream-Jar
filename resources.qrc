@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>jar.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>brush.svg</file>
+        <file>chart.svg</file>
+        <file>disk.svg</file>
+        <file>flame.svg</file>
+        <file>palette.svg</file>
+        <file>users.svg</file>
+    </qresource>
+</RCC>
