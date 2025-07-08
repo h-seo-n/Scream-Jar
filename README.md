@@ -35,32 +35,26 @@ Or : Open ```ScreamJar.pro``` in Qt Creator or build using `qmake && make` or `c
 
 <details>
 <summary>1.	Sign up page</summary>
-<div markdown="1">
-	![sign-up image](./images/s1.png)
-</div>
+	<img src="./images/s1.jpg">
 </details>
 
 <details>
 <summary>2.	Login page</summary>
-<div markdown="1">
-	![login image](./images/s2.png)
-</div>
+	<img src="./images/s2.jpg">
 </details>
 
 <details>
 <summary>3.	Main UI</summary>
-<div markdown="1">
-	![main UI](./images/s3.png)
-        ![Scream list](./images/s4.png)
-	![Friend popup](./images/s5.png)
-	![Feed](./images/s6.png)
-	![Analysis](./images/s7.png)
-	![Customization](./images/s8.png)
-</div>
+	<img src="./images/s3.jpg">  
+        <img src="./images/s4.jpg">  
+	<img src="./images/s6.jpg">  
+	<img src="./images/s7.jpg">  
+	<img src="./images/s8.jpg">  
+	<img src="./images/s9.jpg">  
 </details>
 
 ---
 
 ## 👩 Author
-허서연 Seoyeon Heo | Seoul Natl. University, College of Liberal Studies, CSE major junior
+허서연 Seoyeon Heo | Seoul Natl. University, College of Liberal Studies, CSE major junior  
 📫 Contact – best3487@snu.ac.kr
