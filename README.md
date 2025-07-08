@@ -58,3 +58,7 @@ Or : Open ```ScreamJar.pro``` in Qt Creator or build using `qmake && make` or `c
 ## 👩 Author
 허서연 Seoyeon Heo | Seoul Natl. University, College of Liberal Studies, CSE major junior  
 📫 Contact – best3487@snu.ac.kr
+
+---
+## Notes on use
+To move your data across platforms(such as changing your laptop) make sure to preserve your .appdata file where your .exe file is
