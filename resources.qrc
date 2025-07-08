@@ -9,5 +9,6 @@
         <file>flame.svg</file>
         <file>palette.svg</file>
         <file>users.svg</file>
+        <file>jar.ico</file>
     </qresource>
 </RCC>

@@ -40,7 +40,7 @@ public:
     {
         if (StartPage->objectName().isEmpty())
             StartPage->setObjectName("StartPage");
-        StartPage->resize(1039, 544);
+        StartPage->resize(1039, 644);
         StartPage->setStyleSheet(QString::fromUtf8("QWidget{\n"
 "background-color: rgb(255, 255, 255);\n"
 "}\n"
