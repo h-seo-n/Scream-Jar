@@ -35,22 +35,22 @@ Or : Open ```ScreamJar.pro``` in Qt Creator or build using `qmake && make` or `c
 
 <details>
 <summary>1.	Sign up page</summary>
-	<img src="./images/s1.jpg" width="200px">
+	<img src="./images/s1.jpg">
 </details>
 
 <details>
 <summary>2.	Login page</summary>
-	<img src="./images/s2.jpg" width="200px">
+	<img src="./images/s2.jpg">
 </details>
 
 <details>
 <summary>3.	Main UI</summary>
-	<img src="./images/s3.jpg" width="200px">  
-        <img src="./images/s4.jpg" width="200px">  
-	<img src="./images/s6.jpg" width="200px">  
-	<img src="./images/s7.jpg" width="200px">  
-	<img src="./images/s8.jpg" width="200px">  
-	<img src="./images/s9.jpg" width="200px">  
+	<img src="./images/s3.jpg">  
+        <img src="./images/s4.jpg">  
+	<img src="./images/s6.jpg">  
+	<img src="./images/s7.jpg">  
+	<img src="./images/s8.jpg">  
+	<img src="./images/s9.jpg">  
 </details>
 
 ---
